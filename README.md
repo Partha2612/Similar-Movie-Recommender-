@@ -141,7 +141,7 @@ Source: [The Movies Dataset (Kaggle)](https://www.kaggle.com/datasets/rounakbani
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/movie-recommender.git
+git clone https://github.com/Partha2612/movie-recommender.git
 cd movie-recommender
 
 # 2. Set up environment

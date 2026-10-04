@@ -160,8 +160,8 @@ python example_usage.py
 
 For questions about this project or to discuss ML/analytics roles:
 - **Email:** parthamukh26@gmail.com
-- **LinkedIn:** [Your LinkedIn]
-- **Portfolio:** [Your Portfolio]
+- **LinkedIn:** https://www.linkedin.com/in/partha-mukherjee-21743b199/
+
 
 ---
 
